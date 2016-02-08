@@ -10,6 +10,9 @@ html {
     width: 100%;
     background-color: #FFF;
 }
+.modal-body {
+    height: 800px;
+}
  
  
   /* Material Design Icons styles
