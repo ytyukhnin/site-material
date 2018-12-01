@@ -14,6 +14,7 @@ target
 out
 build
 bin
+site
 
 # Package Files #
 *.jar
@@ -28,6 +29,4 @@ bin
 hs_err_pid*
 
 # IDE
-.project
-.classpath
 .settings
