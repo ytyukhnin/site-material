@@ -1,3 +1,3 @@
-Revamped personal web-site using Material Design and Bootstrap hosted on Google Cloud App Engine
+Revamped personal web-site using Material Design and Bootstrap hosted on AWS.
 
 http://tyukhnin.com
