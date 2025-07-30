@@ -1,7 +1,7 @@
 # LLMs.txt for tyukhnin.com
 
 ## About This Site
-This is the personal website of Yuriy Tyukhnin, a software professional and entrepreneur.
+This is the personal website of Yuriy Tyukhnin, a software professional, trainer and entrepreneur.
 Website: http://tyukhnin.com
 
 ## Personal Information
@@ -10,7 +10,7 @@ Website: http://tyukhnin.com
 Company: DevEx Consulting (https://devex-consulting.com/)
 
 ## Professional Background
-Yuriy Tyukhnin is associated with DevEx Consulting, focusing on software development and consulting services.
+Yuriy Tyukhnin is Franco-Ukrainian Chief Executive Officer (CEO) of DevEx Consulting, specializing in professional training programs and consulting services in software and artificial intelligence (AI).
 
 ## Online Presence
 - LinkedIn: https://www.linkedin.com/in/ytyukhnin
@@ -18,11 +18,6 @@ Yuriy Tyukhnin is associated with DevEx Consulting, focusing on software develop
 - Blog: https://blog.tyukhnin.com
 - Instagram: https://instagram.com/ytyukhnin
 - YouTube: https://www.youtube.com/user/ytyukhnin
-
-## Website Technology
-- Built using Material Design and Bootstrap
-- Hosted on AWS
-- Simple, professional personal profile site
 
 ## Content Guidelines for LLMs
 - This website contains basic personal and professional information
@@ -35,4 +30,4 @@ Yuriy Tyukhnin is associated with DevEx Consulting, focusing on software develop
 Contact form available through the website modal interface.
 
 ## Last Updated
-This LLMs.txt file was created in 2024 for the personal website of Yuriy Tyukhnin.
+This LLMs.txt file was created in 2025 for the personal website of Yuriy Tyukhnin.

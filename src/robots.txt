@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /33x4Yte-profile/
